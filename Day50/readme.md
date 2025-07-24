@@ -83,6 +83,14 @@ http://127.0.0.1:5000/
 ```
 
 ---
+## 🖼 Screenshots
+
+### 🏠 Home Page
+![home-page](image.png)
+
+### ℹ️ About Page
+
+![about-page](image-1.png)
 
 ## 💡 Bonus Ideas
 
